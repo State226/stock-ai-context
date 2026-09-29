@@ -9,4 +9,6 @@ ChatGPT 使用步骤：
 3. 逐只检查 `plan.status`；只有 `approved` 才允许按计划判断。
 4. 根据 `screenshot.image_url` 查看最新分时截图。
 
+`screenshots/` 当前只保留 `latest.json` 引用的最新截图。
+
 本仓库不应包含 Token、Cookie、密码、登录数据或本机隐私信息。
